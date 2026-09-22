@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 28179b36b6d9aba448870d01f1aae4d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1358036657565555635
+    second: KaitoTexture_0
+  - first:
+      213: -3434799141773076550
+    second: KaitoTexture_1
+  - first:
+      213: 6976008512058343871
+    second: KaitoTexture_2
+  - first:
+      213: -5255153333398960875
+    second: KaitoTexture_3
+  - first:
+      213: 3015001342949136806
+    second: KaitoTexture_4
+  - first:
+      213: -3891606791013269721
+    second: KaitoTexture_5
+  - first:
+      213: 1712116786008006451
+    second: KaitoTexture_6
+  - first:
+      213: -8409575893715525187
+    second: KaitoTexture_7
+  - first:
+      213: 6579970113844734398
+    second: KaitoTexture_8
+  - first:
+      213: 5349458744476265211
+    second: KaitoTexture_9
+  - first:
+      213: -7598660862756201822
+    second: KaitoTexture_10
+  - first:
+      213: -3134617179084775573
+    second: KaitoTexture_11
+  - first:
+      213: 5835441888684095970
+    second: KaitoTexture_12
+  - first:
+      213: -6832118888989754977
+    second: KaitoTexture_13
+  - first:
+      213: 9050735736651370537
+    second: KaitoTexture_14
+  - first:
+      213: 1075503331260347687
+    second: KaitoTexture_15
+  - first:
+      213: -4814945061192829065
+    second: KaitoTexture_16
+  - first:
+      213: 4653975742834787053
+    second: KaitoTexture_17
+  - first:
+      213: -8816180122012969642
+    second: KaitoTexture_18
+  - first:
+      213: 8035060421813275868
+    second: KaitoTexture_19
+  - first:
+      213: -8321436833947466462
+    second: KaitoTexture_20
+  - first:
+      213: 6132633329809311172
+    second: KaitoTexture_21
+  - first:
+      213: 3690299838498843970
+    second: KaitoTexture_22
+  - first:
+      213: -4501924354094965177
+    second: KaitoTexture_23
+  - first:
+      213: -5169365499889084153
+    second: KaitoTexture_24
+  - first:
+      213: -4147312219084406356
+    second: KaitoTexture_25
+  - first:
+      213: 3898786041979784736
+    second: KaitoTexture_26
+  - first:
+      213: 9067658114005352783
+    second: KaitoTexture_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KaitoTexture_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 2048
+        height: 2009
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb57261527b8d210800000000000000
+      internalID: 1358036657565555635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 897
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab79ccff0642550d0800000000000000
+      internalID: -3434799141773076550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 110
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1c65ff7c2cfc060800000000000000
+      internalID: 6976008512058343871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 116
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5158b82e2e1f117b0800000000000000
+      internalID: -5255153333398960875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 72
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a91fcb4fbf67d920800000000000000
+      internalID: 3015001342949136806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_5
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 0
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ff7200e3c3ef9c0800000000000000
+      internalID: -3891606791013269721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_6
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 0
+        width: 371
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f9dfb4529a2c710800000000000000
+      internalID: 1712116786008006451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_7
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 27
+        width: 106
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1e56fc74f2b4b80800000000000000
+      internalID: -8409575893715525187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_8
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9e664d4ffb05b50800000000000000
+      internalID: 6579970113844734398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_9
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 4
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa6d1da2681d3a40800000000000000
+      internalID: 5349458744476265211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_10
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 31
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aad0ca64322c8690800000000000000
+      internalID: -7598660862756201822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_11
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f90d5984a9f74d0800000000000000
+      internalID: -3134617179084775573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_12
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e93372fa77abf050800000000000000
+      internalID: 5835441888684095970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_13
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 31
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99778e81107f21a0800000000000000
+      internalID: -6832118888989754977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_14
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 14
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920d90b133caa9d70800000000000000
+      internalID: 9050735736651370537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_15
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 30
+        width: 108
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725b58ed494fcee00800000000000000
+      internalID: 1075503331260347687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_16
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 0
+        width: 345
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777749e3af0ed2db0800000000000000
+      internalID: -4814945061192829065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_17
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 0
+        width: 91
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2c3f0c74e369040800000000000000
+      internalID: 4653975742834787053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_18
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 34
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6559e8f93e2a6a580800000000000000
+      internalID: -8816180122012969642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_19
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 32
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc0bfec1e4428f60800000000000000
+      internalID: 8035060421813275868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_20
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 107
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225c5b3d941548c80800000000000000
+      internalID: -8321436833947466462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_21
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 0
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c54109758d7b1550800000000000000
+      internalID: 6132633329809311172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_22
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24da76ca624963330800000000000000
+      internalID: 3690299838498843970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_23
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 0
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e5d74f6a3f581c0800000000000000
+      internalID: -4501924354094965177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_24
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 4
+        width: 77
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70993f06779b248b0800000000000000
+      internalID: -5169365499889084153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_25
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 0
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca146d89289c176c0800000000000000
+      internalID: -4147312219084406356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_26
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 0
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ec47f9f354b1630800000000000000
+      internalID: 3898786041979784736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaitoTexture_27
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f414afd130bc6dd70800000000000000
+      internalID: 9067658114005352783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      KaitoTexture_0: 1358036657565555635
+      KaitoTexture_1: -3434799141773076550
+      KaitoTexture_10: -7598660862756201822
+      KaitoTexture_11: -3134617179084775573
+      KaitoTexture_12: 5835441888684095970
+      KaitoTexture_13: -6832118888989754977
+      KaitoTexture_14: 9050735736651370537
+      KaitoTexture_15: 1075503331260347687
+      KaitoTexture_16: -4814945061192829065
+      KaitoTexture_17: 4653975742834787053
+      KaitoTexture_18: -8816180122012969642
+      KaitoTexture_19: 8035060421813275868
+      KaitoTexture_2: 6976008512058343871
+      KaitoTexture_20: -8321436833947466462
+      KaitoTexture_21: 6132633329809311172
+      KaitoTexture_22: 3690299838498843970
+      KaitoTexture_23: -4501924354094965177
+      KaitoTexture_24: -5169365499889084153
+      KaitoTexture_25: -4147312219084406356
+      KaitoTexture_26: 3898786041979784736
+      KaitoTexture_27: 9067658114005352783
+      KaitoTexture_3: -5255153333398960875
+      KaitoTexture_4: 3015001342949136806
+      KaitoTexture_5: -3891606791013269721
+      KaitoTexture_6: 1712116786008006451
+      KaitoTexture_7: -8409575893715525187
+      KaitoTexture_8: 6579970113844734398
+      KaitoTexture_9: 5349458744476265211
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1 @@
+{"status":"Valid","reason":"Signature is ok","isLegacy":false,"attestation":{"version":1,"format":"archive","integrity":"sha256-1lV8mWO7SqRwMIqNAOINv+NJ4dTIgbjf07fn9UNJlH8=","packageName":"com.unity.2d.pixel-perfect","packageVersion":"6.0.0","publishingChannel":"unity","entitlementKeys":[],"artifactType":"upmPackage"}}
