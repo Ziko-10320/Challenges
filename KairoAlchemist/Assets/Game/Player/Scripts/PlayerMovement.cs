@@ -57,7 +57,7 @@ public class PlayerMovement : MonoBehaviour
     // External scripts can switch these off to freeze the player
     public bool CanMove { get; set; } = true;
     public bool CanFlip { get; set; } = true;
-
+    public bool IsInvincible { get; private set; } = false;
     // --- Animation Hashes ---
     private readonly int isRunningHash = Animator.StringToHash("isRunning");
     private readonly int isGroundedHash = Animator.StringToHash("isGrounded");
@@ -213,12 +213,18 @@ public class PlayerMovement : MonoBehaviour
     // --- Roll ---
     private void HandleRoll(InputAction.CallbackContext context)
     {
-        if (!CanMove) return;
         if (isRolling) return;
         if (rollCooldownCounter > 0f) return;
         if (groundOnlyRoll && !isGrounded) return;
 
-       
+        if (playerAttacks != null && playerAttacks.IsAttacking())
+        {
+            playerAttacks.CancelAttack();
+        }
+        else if (!CanMove)
+        {
+            return;
+        }
 
         if (rollCoroutine != null) StopCoroutine(rollCoroutine);
         rollCoroutine = StartCoroutine(RollRoutine());
@@ -227,6 +233,7 @@ public class PlayerMovement : MonoBehaviour
     private IEnumerator RollRoutine()
     {
         isRolling = true;
+        IsInvincible = true;
         rollCooldownCounter = rollCooldown;
 
         animator.SetTrigger(rollTriggerHash);
@@ -259,6 +266,7 @@ public class PlayerMovement : MonoBehaviour
         rb.gravityScale = originalGravityScale;
         rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
         isRolling = false;
+        IsInvincible = false;
         rollCoroutine = null;
     }
 

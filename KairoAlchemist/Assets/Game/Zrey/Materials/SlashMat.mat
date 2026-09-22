@@ -70,13 +70,13 @@ Material:
     - _VoronoiDissolve: -1.26
     - _VoronoiScale: -7.3
     - _VoronoiSpeed: 27.77
-    - _WipeProgress: 0.703
+    - _WipeProgress: 0.429
     - _WipeWidth: -0.18
     m_Colors:
-    - _BrightColor: {r: 17.08287, g: 0.9565517, b: 0, a: 1}
+    - _BrightColor: {r: 4.2707176, g: 2.9362857, b: 0, a: 1}
     - _CenterTrim: {r: 1, g: 0.51, b: 0, a: 0}
     - _Color: {r: 1, g: 0.836795, b: 0, a: 1}
-    - _DarkColor: {r: 0.4792453, g: 0.2225269, b: 0.12207186, a: 1}
+    - _DarkColor: {r: 0, g: 0, b: 0, a: 1}
     - _EnergyColor: {r: 2.6803195, g: 2.0209897, b: 0, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
