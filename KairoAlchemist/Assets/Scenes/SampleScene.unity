@@ -142,7 +142,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DemonAttack
   attackRange: 10.09
-  attackCooldown: 2
+  attackCooldown: 4
   attackPoint: {fileID: 1751499802}
   attackAreaSize: {x: 5.52, y: 1.79}
   playerLayer:
@@ -5158,7 +5158,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DemonAttack
   attackRange: 10.09
-  attackCooldown: 2
+  attackCooldown: 4
   attackPoint: {fileID: 618273341}
   attackAreaSize: {x: 5.52, y: 1.79}
   playerLayer:
@@ -46817,7 +46817,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DemonAttack
   attackRange: 10.09
-  attackCooldown: 2
+  attackCooldown: 4
   attackPoint: {fileID: 696541565}
   attackAreaSize: {x: 5.52, y: 1.79}
   playerLayer:
